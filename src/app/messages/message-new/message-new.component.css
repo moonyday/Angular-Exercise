@@ -1,0 +1,14 @@
+.mat-stepper-horizontal {
+    max-width: 700px;
+    margin: auto;
+}
+
+
+form {
+    text-align: center;
+}
+
+.mat-form-field {
+    text-align: center;
+}
+

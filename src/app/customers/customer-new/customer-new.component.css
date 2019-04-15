@@ -1,0 +1,13 @@
+.mat-card {
+    margin: auto;
+    width: 600px;
+}
+
+.mat-card .full-width {
+    width: 100%;
+}
+
+.mat-card .mat-card-actions {
+    display: block;
+    text-align: right;
+}
